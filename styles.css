@@ -2,7 +2,14 @@
 h1{
 	text-align:center;
 	color:white;
+	padding-top:10px;
+	
+	
+	
 }
 body{
-	background-image:url('https://www.globalfocusmagazine.com/wp-content/uploads/2020/02/Engaging_with_technology-scaled.jpg');
-}
+	background-image:url('https://media.istockphoto.com/id/1394440950/photo/natural-view-cosmos-filed-and-sunset-on-garden-background.webp?b=1&s=612x612&w=0&k=20&c=o3n-h2j4aBnaDqKeY-876cTRm1DLOsZcCjcfDZf_9TQ=');
+	min-height:100vh;
+	background-repeat:no-repeat;
+	
+	
